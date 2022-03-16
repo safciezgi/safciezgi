@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
 
-
+- 🎓 I graduated from Atılım University with bachelor degree in Computer Engineering
 - 🔭 Currently working on **Front-End technologies**
 
 - 🌱 I’m currently learning **Angular, React Native**
