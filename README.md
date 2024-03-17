@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezgi</h1>
-<h3 align="center">A passionate Jr. Frontend Developer from Turkey</h3>
+<h3 align="center">A passionate Frontend Developer from Türkiyey</h3>
 <img alt="Coding" align="right" src="https://miro.medium.com/max/960/1*Z7OapRMh3G-KCyaEKVFLiw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
