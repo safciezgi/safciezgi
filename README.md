@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything via [here](https://tr.linkedin.com/in/ezgisafci)**
 
-- 📄 Know about my experiences - [CV](https://drive.google.com/file/d/10q5U9Bf4g1Tx_gc1aUQfl4quG7aVE3v7/view?usp=sharing)
+- 📄 Know about my experiences - [CV](https://drive.google.com/file/d/1B5qX0EgRRo66qgSUu4ivFaTe6tzs-Q74/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
