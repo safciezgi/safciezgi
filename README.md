@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **Angular, React**
 
-- 💬 Ask me about **anything via [here](https://tr.linkedin.com/in/ezgisaf%C3%A7%C4%B1)**
+- 💬 Ask me about **anything via [here](https://tr.linkedin.com/in/ezgisafci)**
 
 - 📄 Know about my experiences - [CV](https://drive.google.com/file/d/10q5U9Bf4g1Tx_gc1aUQfl4quG7aVE3v7/view?usp=sharing)
 
